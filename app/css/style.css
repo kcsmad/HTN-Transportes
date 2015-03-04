@@ -84,8 +84,8 @@ body {
 
 .content {
     position: relative;
-    margin: 20px;
-    padding-bottom: 80px;
+    margin: 30px;
+    min-height: 300px;
 }
 
 .main-header {
@@ -158,6 +158,28 @@ textarea {
 
 .outros-contatos {
     padding: 20px;
+}
+
+.servico {
+    font-size: 16px;
+}
+
+.servico > h2 {
+    text-align: center;
+}
+
+.icone-service {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+
+.veiculos, .clientes {
+    text-align: center;
+}
+
+.thumbnail {
+    display: inline;
 }
 
 

@@ -4,15 +4,14 @@
     <div class="container">
         <div class="main-header">
             <div class="logo-header col-md-9">
-                <img class="logo" src="images/htn-logo5.png" />
+                <a href="home.php"><img class="logo" src="images/htn-big-logo.png" /></a>
             </div>
             <div class="masthead col-md-12">
                 <ul class="nav nav-justified">
-                    <li><a href="home.php">Início</a></li>
                     <li><a href="servicos.php">Serviços</a></li>
-                    <li><a href="#">Veículos</a></li>
+                    <li><a href="veiculos.php">Veículos</a></li>
                     <li><a href="#">Preços</a></li>
-                    <li><a href="#">Clientes</a></li>
+                    <li><a href="clientes.php">Clientes</a></li>
                     <li class="active"><a href="contato.php">Contato</a></li>
                 </ul>
             </div>
@@ -57,6 +56,7 @@
                 <p><span class="glyphicon glyphicon-earphone"></span> (021) 9999-9999</p>
             </div>
         </div>
+        <div class="clearfix"></div>
     </div>
 <?php include("includes/footer.php"); ?>
 </body>

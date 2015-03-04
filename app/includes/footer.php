@@ -1,7 +1,7 @@
 <div class="footer col-md-12">
     <div class="container">
         <div class="image-footer col-md-3">
-            <image src="images/small_logo.png" />
+            <image src="images/htn-small-logo.png" />
         </div>
         <div class="info-footer col-md-6">
             <p>
